@@ -26,6 +26,7 @@ public class curso {
         this.promedio=promedio;
     }
     public void setnroEstudaintesEncimaPromedio(){
+         //declaración innecesaria utilice la variable estudianes o c
         int estudianes=0;
         int c=0;
         for(int i=0;i<12;i++){
